@@ -5,7 +5,7 @@
 
 ## 💫 About Me:
 👋 Hello, I'm Vinayak Shukla, Full Stack Developer 💻<br><br>I'm a passionate and experienced Full Stack Developer with a strong foundation in both front-end and back-end technologies. I thrive on crafting web applications that not only look great but also deliver exceptional user experiences. With a positive attitude and a growth mindset, I am ready to make a meaningful contribution and achieve great things.<br><br>
-- 📚 I'm currently learning ML<br>
+- 📚 I'm currently exploring new Technologies<br>
 - ⚡ In my free time I like to watch movies<br>
 - 📫 How to reach me vinayakshukla0786@gmail.com<br><br><br>
 
