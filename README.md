@@ -81,4 +81,15 @@
  
 </div>
 <br><br><br><br>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kunal1223&show_icons=true&locale=en&layout=compact" alt="kunal1223" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kunal1223&show_icons=true&locale=en" alt="kunal1223" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kunal1223&" alt="kunal1223" /></p>
+
+<div align = "center" color="red">
+ 
+**Visitors Count**  
+![VisitorCount](https://profile-counter.glitch.me/{kunal1223}/count.svg)
+</div>
 
