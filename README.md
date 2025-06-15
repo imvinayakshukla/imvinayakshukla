@@ -4,10 +4,17 @@
 
 
 ## 💫 About Me:
-👋 Hello, I'm Vinayak Shukla, Full Stack Developer 💻<br><br>I'm a passionate and experienced Full Stack Developer with a strong foundation in both front-end and back-end technologies. I thrive on crafting web applications that not only look great but also deliver exceptional user experiences. With a positive attitude and a growth mindset, I am ready to make a meaningful contribution and achieve great things.<br><br>
-- 📚 I'm currently exploring new Technologies particularly in the domain of Gen Ai , LLM's and RAG's<br>
-- ⚡ In my free time I like to watch movies<br>
-- 📫 How to reach me vinayakshukla0786@gmail.com<br><br><br>
+Hi there! 👋 I'm Vinayak Shukla, a passionate Full Stack Developer 💻 with a strong foundation in both front-end and back-end technologies. I love building web applications that are not only visually appealing but also deliver seamless and impactful user experiences.
+
+I bring a positive attitude, a growth mindset, and a constant drive to learn and innovate. My current focus is on cutting-edge tech like Generative AI 🤖✨, Large Language Models (LLMs) 🧠📚, and Retrieval-Augmented Generation (RAG) 🔍📦. <br><br>
+
+
+🚀 A few things about me:
+📚 Currently diving deep into Gen AI 🤖, LLMs 🧠, and RAG-based architectures 🔍
+
+🎬 I enjoy watching movies and exploring great storytelling in my free time
+
+📫 Reach me at: vinayakshukla0786@gmail.com
 
 ## 💻 Tech Stack:
 ###
