@@ -9,10 +9,10 @@ Hi there! 👋 I'm Vinayak Shukla, a passionate Full Stack Developer 💻 with a
 I bring a positive attitude, a growth mindset, and a constant drive to learn and innovate. My current focus is on cutting-edge tech like Generative AI 🤖✨, Large Language Models (LLMs) 🧠📚, and Retrieval-Augmented Generation (RAG) 🔍📦. <br><br>
 
 
-🚀 A few things about me:
-📚 Currently diving deep into Gen AI 🤖, LLMs 🧠, and RAG-based architectures 🔍
+🚀 A few things about me: <br><br>
+ Currently diving deep into Gen AI , LLMs , and RAG-based architectures .
 
-🎬 I enjoy watching movies and exploring great storytelling in my free time
+ I enjoy watching movies and reading technical blogs.
 
 📫 Reach me at: vinayakshukla0786@gmail.com
 
