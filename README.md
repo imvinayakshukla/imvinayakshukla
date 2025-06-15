@@ -10,11 +10,11 @@ I bring a positive attitude, a growth mindset, and a constant drive to learn and
 
 
 🚀 A few things about me: <br><br>
- Currently diving deep into Gen AI , LLMs , and RAG-based architectures .
+ - Currently diving deep into Gen AI , LLMs , and RAG-based architectures .
 
- I enjoy watching movies and reading technical blogs.
+ - I enjoy watching movies and reading technical blogs.
 
-📫 Reach me at: vinayakshukla0786@gmail.com
+ - 📫 Reach me at: vinayakshukla0786@gmail.com
 
 ## 💻 Tech Stack:
 ###
